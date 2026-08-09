@@ -35,10 +35,8 @@ I'm a software developer and designer passionate about building interactive soft
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadakerem&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadakerem&layout=compact&theme=radical" width="35%" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CadaKerem&show_icons=true&theme=radical)](https://github.com/CadaKerem)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CadaKerem&layout=compact&theme=radical)](https://github.com/CadaKerem)
 
 ## 📫 How to Reach Me
 * **Email:** [kbarbaros@hotmail.com](mailto:kbarbaros@hotmail.com)
