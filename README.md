@@ -9,6 +9,7 @@ I'm a software developer and designer passionate about building interactive soft
 * 💡 **Core Interests:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
 
 ## ⭐ Featured Projects
+* [**Portfolio AI**](https://github.com/cadakerem/portfolio-ai) — A lightweight, open-source Telegram bot for tracking global stocks and TEFAS mutual funds with AI insights.
 * [**Chase Runner**](https://github.com/cadakerem/chase-runner) — A fast-paced, local 2-player chase runner built with MonoGame — one hunts, one survives.
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
 * [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations-based survival/crafting simulation comparing three player skill profiles under identical resource scarcity and combat pressure.
