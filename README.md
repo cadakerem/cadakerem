@@ -9,6 +9,7 @@ I'm a software developer and designer passionate about building interactive soft
 * 💡 **Core Interests:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
 
 ## ⭐ Featured Projects
+* [**Sprite Packer**](https://github.com/cadakerem/sprite-packer-cli) — A robust Python CLI tool that automatically packs, crops, and optimizes individual images into highly efficient sprite sheets for 2D game development.
 * [**Portfolio AI**](https://github.com/cadakerem/portfolio-ai) — A lightweight, open-source Telegram bot for tracking global stocks and TEFAS mutual funds with AI insights.
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
 * [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations-based survival/crafting simulation comparing three player skill profiles under identical resource scarcity and combat pressure.
