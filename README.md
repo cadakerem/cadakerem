@@ -9,7 +9,8 @@ I'm a software developer and designer passionate about building interactive soft
 * 💡 **Core Interests:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
 
 ## ⭐ Featured Projects
-* [**Sprite Packer Web**](https://github.com/cadakerem/sprite-packer-web) — A production-ready, client-side web application that uses the MaxRects algorithm to automatically pack, trim, and optimize individual frames into highly efficient sprite sheets for 2D game engines.
+* [**Agentic Vault**](https://github.com/cadakerem/agentic-vault) — An open-source Obsidian plugin for automated Git sync and Issue-Driven Development (IDD) workflows using GitHub APIs. *(Part of GitHub Developer Program)*
+* [**Sprite Packer CLI**](https://github.com/cadakerem/sprite-packer-cli) — A lightning-fast CLI tool for game developers to automatically pack scattered PNGs into optimized sprite sheets and JSON data.
 * [**Portfolio AI**](https://github.com/cadakerem/portfolio-ai) — A lightweight, open-source Telegram bot for tracking global stocks and TEFAS mutual funds with AI insights.
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
 * [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations-based survival/crafting simulation comparing three player skill profiles under identical resource scarcity and combat pressure.
