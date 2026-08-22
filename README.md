@@ -10,7 +10,8 @@ I'm a software developer and designer passionate about building interactive soft
 
 ## ⭐ Featured Projects
 * [**ReviewForge**](https://github.com/cadakerem/ReviewForge) — An autonomous, AI-driven SecOps and Code Review agent built as a Serverless GitHub Action. It deeply analyzes PRs, catches security flaws, outputs copy-pasteable auto-fix blocks, and automatically tracks issues via GitHub API.
-* [**Sprite Packer**](https://github.com/cadakerem/sprite-packer-cli) — A robust Python CLI tool that automatically packs, crops, and optimizes individual images into highly efficient sprite sheets for 2D game development.
+* [**Agentic Vault**](https://github.com/cadakerem/agentic-vault) — An open-source Obsidian plugin for automated Git sync and Issue-Driven Development (IDD) workflows using GitHub APIs. *(Part of GitHub Developer Program)*
+* [**Sprite Packer Web**](https://github.com/cadakerem/sprite-packer-web) — A fast, browser-based web tool for game developers to instantly pack scattered PNGs into optimized sprite sheets and JSON data.
 * [**Portfolio AI**](https://github.com/cadakerem/portfolio-ai) — A lightweight, open-source Telegram bot for tracking global stocks and TEFAS mutual funds with AI insights.
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
 
