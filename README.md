@@ -19,23 +19,23 @@ I'm a software developer and designer passionate about building interactive soft
 ## 🛠️ Tech Stack & Tools
 
 ### **Languages & Frameworks**
-![C#](https://img.shields.io/badge/C%23-239120⭐style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB⭐style=for-the-badge&logo=python&logoColor=white)
-![MonoGame](https://img.shields.io/badge/MonoGame-E60012⭐style=for-the-badge&logo=monogame&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4⭐style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MonoGame](https://img.shields.io/badge/MonoGame-E60012?style=for-the-badge&logo=monogame&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### **Game Engines, 3D & Design**
-![Unity](https://img.shields.io/badge/Unity-100000⭐style=for-the-badge&logo=unity&logoColor=white)
-![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC⭐style=for-the-badge&logo=autodesk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### **Data & Automation (Trading)**
-![n8n](https://img.shields.io/badge/n8n-FF6D5A⭐style=for-the-badge&logo=n8n&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458⭐style=for-the-badge&logo=pandas&logoColor=white)
-![Backtrader](https://img.shields.io/badge/Backtrader-2C2255⭐style=for-the-badge&logo=python&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-00A98F⭐style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Backtrader](https://img.shields.io/badge/Backtrader-2C2255?style=for-the-badge&logo=python&logoColor=white)
+![yfinance](https://img.shields.io/badge/yfinance-00A98F?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032⭐style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 How to Reach Me
 * **Email:** [kbarbaros@hotmail.com](mailto:kbarbaros@hotmail.com)
