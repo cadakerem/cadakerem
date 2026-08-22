@@ -3,16 +3,16 @@
 I'm a software developer and designer passionate about building interactive software, engaging gameplay mechanics, and quantitative algorithmic systems. As a **Computer Programming** graduate currently studying **Digital Game Design**, I enjoy bridging the gap between technical programming and creative 3D workflows.
 
 ## 🚀 About Me
-* 🎮 **Game Development:** Programming core gameplay mechanics, character controllers, user interfaces, and interactive systems using **C#**, **Unity**, and **MonoGame**.
+* 🕹️ **Game Development:** Programming core gameplay mechanics, character controllers, user interfaces, and interactive systems using **C#**, **Unity**, and **MonoGame**.
 * 📈 **Algorithmic Trading & Automation:** Developing quantitative trading bots, financial market scanners, and conducting historical backtests using **Python**.
 * 🎨 **3D Asset Pipeline:** Experienced in 3D modeling, rigging, and animation workflows with **Autodesk Maya** to create optimized assets for real-time game engines.
-* 💡 **Core Interests:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
+* 🎯 **Core Interests:** Building robust software architectures, optimizing hybrid trading algorithms, and developing interactive end-to-end projects.
 
 ## ⭐ Featured Projects
+* [**ReviewForge**](https://github.com/cadakerem/ReviewForge) — An autonomous, AI-driven SecOps and Code Review agent built as a Serverless GitHub Action. It deeply analyzes PRs, catches security flaws, outputs copy-pasteable auto-fix blocks, and automatically tracks issues via GitHub API.
 * [**Sprite Packer**](https://github.com/cadakerem/sprite-packer-cli) — A robust Python CLI tool that automatically packs, crops, and optimizes individual images into highly efficient sprite sheets for 2D game development.
 * [**Portfolio AI**](https://github.com/cadakerem/portfolio-ai) — A lightweight, open-source Telegram bot for tracking global stocks and TEFAS mutual funds with AI insights.
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game with tight mechanics.
-* [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations-based survival/crafting simulation comparing three player skill profiles under identical resource scarcity and combat pressure.
 
 ## 🛠️ Tech Stack & Tools
 
