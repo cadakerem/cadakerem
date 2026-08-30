@@ -8,13 +8,16 @@ I'm a software developer with a background in **Computer Programming**, currentl
 * 🎨 **3D Pipeline:** Modeling, rigging, and animation workflows for real-time engines (Autodesk Maya).
 * 📈 **Algorithmic Trading:** Developing quantitative trading scripts, market scanners, and backtests (Python, Pandas, yfinance).
 
-## Featured Projects
+## Game Development & Tools
 * [**ReviewForge**](https://github.com/cadakerem/ReviewForge) — A GitHub Action that reviews Pull Requests for security flaws and provides auto-fixes.
 * [**Agentic Vault**](https://github.com/cadakerem/agentic-vault) — An Obsidian plugin for automated Git sync and Issue-Driven Development workflows.
 * [**Sprite Packer Web**](https://github.com/cadakerem/sprite-packer-web) — A browser-based tool for game developers to pack PNGs into optimized sprite sheets.
 * [**Portfolio AI**](https://github.com/cadakerem/portfolio-ai) — A Telegram bot for tracking stocks and TEFAS mutual funds.
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game.
 * [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations simulation analyzing resource management and combat pressure.
+
+## Systems Engineering & Architecture
+* [**Amnesic Ghost Framework**](https://github.com/cadakerem/amnesic-ghost-framework) — An educational OpSec framework demonstrating layered security, RAM-only execution (`tmpfs`), and Tor routing on Linux.
 
 ## Tech Stack & Tools
 
@@ -23,6 +26,11 @@ I'm a software developer with a background in **Computer Programming**, currentl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/MonoGame-E60012?style=for-the-badge&logo=monogame&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Systems & Architecture**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white)
 
 ### **Game Engines & 3D**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
