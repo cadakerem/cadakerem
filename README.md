@@ -16,6 +16,9 @@ I'm a software developer with a background in **Computer Programming**, currentl
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game.
 * [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations simulation analyzing resource management and combat pressure.
 
+## Systems Engineering & Architecture
+* [**Amnesic Ghost Framework**](https://github.com/cadakerem/amnesic-ghost-framework) — A Linux system architecture project demonstrating automated environment provisioning, volatile RAM (`tmpfs`) data management, and Bash scripting.
+
 ## Tech Stack & Tools
 
 ### **Languages & Frameworks**
@@ -23,6 +26,11 @@ I'm a software developer with a background in **Computer Programming**, currentl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/MonoGame-E60012?style=for-the-badge&logo=monogame&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### **Systems & DevOps**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### **Game Engines & 3D**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
