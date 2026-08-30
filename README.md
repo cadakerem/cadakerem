@@ -16,8 +16,7 @@ I'm a software developer with a background in **Computer Programming**, currentl
 * [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game.
 * [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations simulation analyzing resource management and combat pressure.
 
-## Systems Engineering & Architecture
-* [**Amnesic Ghost Framework**](https://github.com/cadakerem/amnesic-ghost-framework) — A Linux system architecture project demonstrating automated environment provisioning, volatile RAM (`tmpfs`) data management, and Bash scripting.
+
 
 ## Tech Stack & Tools
 
