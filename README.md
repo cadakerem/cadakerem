@@ -8,11 +8,7 @@ I'm a software developer with a background in **Computer Programming**, currentl
 * 🎨 **3D Pipeline:** Modeling, rigging, and animation workflows for real-time engines (Autodesk Maya).
 * 📈 **Algorithmic Trading:** Developing quantitative trading scripts, market scanners, and backtests (Python, Pandas, yfinance).
 
-## Featured Projects
 
-🚀 **[Check out my automated interactive portfolio at cadakerem.me](https://cadakerem.me) to see all my latest projects, tools, and simulations!**
-
-*(This list is now fully automated and synced with my GitHub repositories)*
 
 
 
