@@ -9,12 +9,12 @@ I'm a software developer with a background in **Computer Programming**, currentl
 * 📈 **Algorithmic Trading:** Developing quantitative trading scripts, market scanners, and backtests (Python, Pandas, yfinance).
 
 ## Featured Projects
-* [**ReviewForge**](https://github.com/cadakerem/ReviewForge) — A GitHub Action that reviews Pull Requests for security flaws and provides auto-fixes.
-* [**Agentic Vault**](https://github.com/cadakerem/agentic-vault) — An Obsidian plugin for automated Git sync and Issue-Driven Development workflows.
-* [**Sprite Packer Web**](https://github.com/cadakerem/sprite-packer-web) — A browser-based tool for game developers to pack PNGs into optimized sprite sheets.
-* [**Portfolio AI**](https://github.com/cadakerem/portfolio-ai) — A Telegram bot for tracking stocks and TEFAS mutual funds.
-* [**Coffin Clash**](https://github.com/cadakerem/coffin-clash) — A local 2-player combat and wave-defense game.
-* [**TLOU Simulation**](https://github.com/cadakerem/tlou-simulation) — A Machinations simulation analyzing resource management and combat pressure.
+
+🚀 **[Check out my automated interactive portfolio at cadakerem.me](https://cadakerem.me) to see all my latest projects, tools, and simulations!**
+
+*(This list is now fully automated and synced with my GitHub repositories)*
+
+
 
 
 
