@@ -4,9 +4,10 @@ I'm a software developer with a background in **Computer Programming**, currentl
 
 ## About Me
 * 🎮 **Game Development:** Programming core mechanics, character controllers, and interactive systems (C#, Unity, MonoGame).
-* ⚙️ **Workflow & Automation:** Building CLIs, plugins, and backend tools to optimize development and daily tasks (Python, Go).
+* 🛡️ **Security & AI:** Architecting privacy-focused Linux environments and autonomous LLM code reviewers (Bash, Python, GitHub Actions).
+* 🌐 **Web & Tooling:** Building client-side web tools, IDE plugins, and automation scripts to optimize workflows (TypeScript, React, Vite).
+* 📈 **Data & Simulation:** Developing quantitative tracking bots and resource management simulations (Python, Pandas, Machinations).
 * 🎨 **3D Pipeline:** Modeling, rigging, and animation workflows for real-time engines (Autodesk Maya).
-* 📈 **Algorithmic Trading:** Developing quantitative trading scripts, market scanners, and backtests (Python, Pandas, yfinance).
 
 
 
@@ -21,6 +22,10 @@ I'm a software developer with a background in **Computer Programming**, currentl
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/MonoGame-E60012?style=for-the-badge&logo=monogame&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### **Systems & DevOps**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
