@@ -4,14 +4,14 @@ I build tools that make developers' and game developers' workflows faster — fr
 
 I'm a software developer with a background in **Computer Programming**, currently studying **Digital Game Design**. While I have roots in game development, my main focus is **Developer Tooling, Workflow Automation, and System Automation**. I enjoy solving bottlenecks in the development pipeline and building efficient environments.
 
-## 💻 What I Do
+## What I Do
 - 🤖 **Developer Tooling:** Building LLM-powered code reviewers, API proxies, and CLI workflow tools (Python, FastAPI, GitHub Actions).
 - 🛡️ **Privacy & OpSec:** Building amnesic, privacy-focused Linux environments and ephemeral shells (Bash, Tor, Linux internals).
 - 🌐 **Web & Utilities:** Client-side web tools, IDE plugins, and asset pipeline automations for developers and artists (TypeScript, React, Vite).
 - 🎮 **Game Dev:** Asset packers and automation scripts that bridge the gap between art and code (C#, MonoGame, Unity).
 - 📊 **Data & Automation:** Quantitative tracking bots and resource management simulations (Python, Pandas).
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
