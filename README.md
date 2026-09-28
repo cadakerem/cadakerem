@@ -1,8 +1,8 @@
 # Hi, I'm Kerem Barbaros Karnabat
 
-I build tools that make developers' and game developers' workflows faster — from code review agents to privacy-focused dev environments.
+I build tools that make software and game development workflows more efficient. I enjoy working on different kinds of projects, from development tools and automation to systems that solve practical problems.
 
-I'm a software developer with a background in **Computer Programming**, currently studying **Digital Game Design**. While I have roots in game development, my main focus is **Developer Tooling, Workflow Automation, and System Automation**. I enjoy solving bottlenecks in the development pipeline and building efficient environments.
+I'm a software developer with a background in **Computer Programming**, currently studying **Digital Game Design**. I have experience in game development, but my main interests are **Developer Tooling, Workflow Automation, and System Automation**. I enjoy solving bottlenecks in development workflows and building efficient tools and environments.
 
 ## What I Do
 - 🤖 **Developer Tooling:** Building LLM-powered code reviewers, API proxies, and CLI workflow tools (Python, FastAPI, GitHub Actions).
