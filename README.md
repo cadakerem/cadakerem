@@ -41,13 +41,3 @@ I'm a software developer with a background in **Computer Programming**, currentl
 ## 📫 Contact
 - **Email:** [kbarbaros@hotmail.com](mailto:kbarbaros@hotmail.com)
 - **LinkedIn:** [kerembarbaroskarnabat](https://www.linkedin.com/in/kerembarbaroskarnabat/)
-
-## 🧑‍💻 Developer & Contributions
-Developed by Kerem Barbaros Karnabat (@cadakerem).
-
-> **Note on Repository Structure:** [TODO: Add any specific notes about the repository structure here, e.g., source vs build artifacts.]
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [Issues page](../../issues).
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
