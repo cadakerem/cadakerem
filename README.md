@@ -12,19 +12,11 @@ I'm a software developer with a background in **Computer Programming**, currentl
 - 📊 **Data & Automation:** Quantitative tracking bots and resource management simulations (Python, Pandas).
 
 ## Tech Stack & Tools
-
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### Workflow & Automation
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-
-### Systems & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Game Engines & Pipeline
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/MonoGame-E60012?style=for-the-badge&logo=monogame&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
