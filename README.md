@@ -1,15 +1,15 @@
 # Hi, I'm Kerem Barbaros Karnabat
 
-I build tools and automations that make development workflows faster and more reliable. My background is in **Computer Programming**, and I'm currently studying **Digital Game Design**.
+I build tools and automations to make software and game development workflows faster and simpler. I have a background in **Computer Programming** and I'm currently studying **Digital Game Design**.
 
-While my foundation started with game development, most of my day-to-day focus is on **developer tooling, workflow automation, and system utilities**. I like finding real bottlenecks—whether it's repetitive pipeline steps, manual asset processing, or slow developer feedback loops—and building targeted software to fix them.
+Most of my time goes into **developer tooling, workflow automation, and game systems**. I like finding slow or repetitive parts of the development process and writing small, focused tools to fix them.
 
 ## What I Work On
 
-- **Developer Tooling & Proxies:** CLI utilities, API proxies (smart model routing and local gateways), and automated review workflows.
-- **Game Tech & Asset Pipelines:** Texture and sprite packers, file converters, and core gameplay architecture in Unity and MonoGame.
-- **Workflow & Process Automation:** Event-driven automations using n8n, scheduled bots, and GitHub Actions CI/CD pipelines.
-- **Systems & Experimental Utilities:** Ephemeral Linux shell setups, privacy-oriented scripts, and offline client-side developer utilities.
+- **Developer Tooling & Proxies:** CLI utilities, API proxies (smart model routers), and automated review workflows.
+- **Game Tech & Asset Pipelines:** Sprite and texture packers, format converters, and core gameplay systems in Unity and MonoGame.
+- **Workflow Automation:** Integrations with n8n, scheduled automation scripts, and GitHub Actions CI/CD pipelines.
+- **Systems & Utilities:** Ephemeral Linux shell setups, privacy scripts, and lightweight developer tools.
 
 ## Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
