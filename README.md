@@ -4,8 +4,6 @@ I build tools and automations that make development workflows faster and more re
 
 While my foundation started with game development, most of my day-to-day focus is on **developer tooling, workflow automation, and system utilities**. I like finding real bottlenecks—whether it's repetitive pipeline steps, manual asset processing, or slow developer feedback loops—and building targeted software to fix them.
 
-🔗 **Portfolio:** [cadakerem.me](https://cadakerem.me)
-
 ## What I Work On
 
 - **Developer Tooling & Proxies:** CLI utilities, API proxies (smart model routing and local gateways), and automated review workflows.
