@@ -13,16 +13,12 @@ I'm a software developer with a background in **Computer Programming**, currentl
 
 ## Tech Stack & Tools
 
-### Languages & Frameworks
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Data & Automation
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### Workflow & Automation
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![Backtrader](https://img.shields.io/badge/Backtrader-2C2255?style=for-the-badge&logo=python&logoColor=white)
-![yfinance](https://img.shields.io/badge/yfinance-00A98F?style=for-the-badge&logo=python&logoColor=white)
 
 ### Systems & DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
