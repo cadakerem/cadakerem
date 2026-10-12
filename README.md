@@ -1,12 +1,17 @@
 # Hi, I'm Kerem Barbaros Karnabat
 
-Software developer with a background in **Computer Programming**, currently studying **Digital Game Design**. I focus on **developer tooling, workflow automation, and game systems**—building tools that eliminate bottlenecks in development workflows.
+I build tools and automations that make development workflows faster and more reliable. My background is in **Computer Programming**, and I'm currently studying **Digital Game Design**.
+
+While my foundation started with game development, most of my day-to-day focus is on **developer tooling, workflow automation, and system utilities**. I like finding real bottlenecks—whether it's repetitive pipeline steps, manual asset processing, or slow developer feedback loops—and building targeted software to fix them.
 
 🔗 **Portfolio:** [cadakerem.me](https://cadakerem.me)
 
 ## What I Work On
-- **Developer Tooling & Automation:** CLI tools, API proxies, and CI/CD pipelines to streamline workflows.
-- **Game Tech & Pipelines:** Asset tools and gameplay systems bridging game design with code.
+
+- **Developer Tooling & Proxies:** CLI utilities, API proxies (smart model routing and local gateways), and automated review workflows.
+- **Game Tech & Asset Pipelines:** Texture and sprite packers, file converters, and core gameplay architecture in Unity and MonoGame.
+- **Workflow & Process Automation:** Event-driven automations using n8n, scheduled bots, and GitHub Actions CI/CD pipelines.
+- **Systems & Experimental Utilities:** Ephemeral Linux shell setups, privacy-oriented scripts, and offline client-side developer utilities.
 
 ## Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
