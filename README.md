@@ -1,15 +1,12 @@
 # Hi, I'm Kerem Barbaros Karnabat
 
-I build tools that make software and game development workflows more efficient. I enjoy working on different kinds of projects, from development tools and automation to systems that solve practical problems.
+Software developer with a background in **Computer Programming**, currently studying **Digital Game Design**. I focus on **developer tooling, workflow automation, and game systems**—building tools that eliminate bottlenecks in development workflows.
 
-I'm a software developer with a background in **Computer Programming**, currently studying **Digital Game Design**. I have experience in game development, but my main interests are **Developer Tooling, Workflow Automation, and System Automation**. I enjoy solving bottlenecks in development workflows and building efficient tools and environments.
+🔗 **Portfolio:** [cadakerem.me](https://cadakerem.me)
 
-## What I Do
-- 🤖 **Developer Tooling:** Building LLM-powered code reviewers, API proxies, and CLI workflow tools (Python, FastAPI, GitHub Actions).
-- 🛡️ **Privacy & OpSec:** Building amnesic, privacy-focused Linux environments and ephemeral shells (Bash, Tor, Linux internals).
-- 🌐 **Web & Utilities:** Client-side web tools, IDE plugins, and asset pipeline automations for developers and artists (TypeScript, React, Vite).
-- 🎮 **Game Dev:** Asset packers and automation scripts that bridge the gap between art and code (C#, MonoGame, Unity).
-- 📊 **Data & Automation:** Quantitative tracking bots and resource management simulations (Python, Pandas).
+## What I Work On
+- **Developer Tooling & Automation:** CLI tools, API proxies, and CI/CD pipelines to streamline workflows.
+- **Game Tech & Pipelines:** Asset tools and gameplay systems bridging game design with code.
 
 ## Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +18,7 @@ I'm a software developer with a background in **Computer Programming**, currentl
 ![MonoGame](https://img.shields.io/badge/MonoGame-E60012?style=for-the-badge&logo=monogame&logoColor=white)
 ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?style=for-the-badge&logo=autodesk&logoColor=white)
 
-## 📫 Contact
-- **Email:** [kbarbaros@hotmail.com](mailto:kbarbaros@hotmail.com)
+## Contact
+- **Website:** [cadakerem.me](https://cadakerem.me)
 - **LinkedIn:** [kerembarbaroskarnabat](https://www.linkedin.com/in/kerembarbaroskarnabat/)
+- **Email:** [kbarbaros@hotmail.com](mailto:kbarbaros@hotmail.com)
